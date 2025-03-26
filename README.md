@@ -30,15 +30,19 @@
 
 ## Recent Projects
 ### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicles Trajectory Prediction
-- Predicting the trajectory of vehicles using deep learning models on a locally collected dataset and SinD public dataset
+- Predicting the trajectory of vehicles using deep learning models on a locally collected dataset and SinD public dataset.
 [Github repo](https://github.com/abdibehzad96/HDAAGT.git)
+
+
 ### Predictive Safety Alerts for Road Users at Cooperative Intersection
 [Github repo](https://github.com/abdibehzad96/PSA-RUCI.git)
-- V2X-Traffic and Safety Management: Detecting pedestrians from a fish-eye camera on intersection crosswalks and
-alerting nearby vehicles based on the chance of collision
-- V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar,
-and Lidar as a test bed for evaluating the projects’ output.
-- Illegal Maneuver Detection: Automatically detecting illegal box-junction stop maneuvers
+- V2X-Traffic and Safety Management: Detecting pedestrians from a fish-eye camera on intersection crosswalks and alerting nearby vehicles based on the chance of collision.
+
+### V-TMC Setup
+- V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar, and Lidar as a test bed for evaluating the projects’ output.
+
+### Illegal Maneuver Detection
+- Automatically detecting illegal box-junction stop maneuvers.
 [Link to the paper](https://doi.org/10.1109/IECON49645.2022.9968584)
 
 
