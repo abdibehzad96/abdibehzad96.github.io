@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Machine Learning, Python, SQL, Docker, MATLAB, C/C++
+#### Technical Skills: Machine Learning, Python, Computer Vision, MATLAB, C/C++, SQL, Docker
 
 ## Education
 - Ph.D., Electrical and Computer Engineering |   McMaster University (_May 2025_)								       		
@@ -34,21 +34,20 @@
 
 - Vehicles Trajectory Prediction: Predicting the trajectory of vehicles using deep learning models on a locally
 collected dataset and calculating the near misses probability and time to collision.
+![Github repo](https://github.com/abdibehzad96/HDAAGT.git)
 - V2X-Traffic and Safety Management: Detecting pedestrians from a fish-eye camera on intersection crosswalks and
 alerting nearby vehicles based on the chance of collision
 - V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar,
 and Lidar as a test bed for evaluating the projects’ output.
 - Illegal Maneuver Detection: Automatically detecting illegal box-junction stop maneuvers
+![Link to the paper](https://doi.org/10.1109/IECON49645.2022.9968584)
 
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 ## Publications
-1. Behzad Abdi, Sara Miraei, Morteza Adl, Severin Hidajat, Ali Emadi, Fellow, IEEE,”Advancing Vulnerable Road Users Safety: Interdisciplinary Review on V2X Communication and Trajectory Prediction,” IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3518063
+1. Behzad Abdi, Sara Miraei, Morteza Adl, Severin Hidajat, Ali Emadi, Fellow, IEEE,”Advancing Vulnerable Road Users Safety: Interdisciplinary Review on V2X Communication and Trajectory Prediction,” IEEE Transactions on Intelligent Transportation Systems, ![doi: 10.1109/TITS.2024.3518063](https://doi.org/10.1109/TITS.2024.3518063)
 2. Behzad Abdi, Zeynab Rokhi, Carlos Vidal, Ali Emadi, Fellow, IEEE, ”Scene-Centric Vehicle Trajectory Prediction at Cooperative Intersection Using Neighbour-Aware Transformer,” Under Review
 3. Behzad Abdi, Sara Mirzaei, Morteza Adl, Ryan Ahmed, Ali Emadi, Fellow, IEEE, ”Real-time Deep Learning Based Predictive Safety Alerts for Road Users at Cooperative Intersection,” Under Review
-4. Xiyuan Guo, Morteza Adl, Behzad Abdi, Ali Emadi, Fellow, IEEE, ”Intersection-Specific Trajectory Prediction for Road Users: A Review,” IEEE Access, doi: 10.1109/ACCESS.2025.3546325 
+4. Xiyuan Guo, Morteza Adl, Behzad Abdi, Ali Emadi, Fellow, IEEE, ”Intersection-Specific Trajectory Prediction for Road Users: A Review,” IEEE Access, ![doi: 10.1109/ACCESS.2025.3546325](https://doi.org/10.1109/ACCESS.2025.3546325) 
 5. Morteza Adl, Member, IEEE, Xiyuan Guo, Member, IEEE, Arta Mohammad-Alikhani, Member, IEEE, Behzad Abdi, Member, IEEE, Ali Emadi, Fellow, IEEE, ”Roadside Fisheye Vision for Cooperative Localization in V2I-Assisted Automated Driving,” Under Review 
-6. M. Ghadrdan, B.Abdi, S.Peyghami, H. Mokhtari, F. Blaabjerg, ”An On-line Condition Monitoring System for DC-link Capacitor of Back-to-Back Converters Using Large-Signal Transients,” Journal of Emerging and Selected Topics in Power Electronics,doi: 10.1109/JESTPE.2022.3163012. 7. An Agent-Based Approach for Market-Based Customer Reliability Enhancement in Distribution Systems, Distributed Computing
+6. M. Ghadrdan, B.Abdi, S.Peyghami, H. Mokhtari, F. Blaabjerg, ”An On-line Condition Monitoring System for DC-link Capacitor of Back-to-Back Converters Using Large-Signal Transients,” Journal of Emerging and Selected Topics in Power Electronics,![doi: 10.1109/JESTPE.2022.3163012](https://doi.org/10.1109/JESTPE.2022.3163012).
