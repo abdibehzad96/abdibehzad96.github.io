@@ -1,55 +1,54 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Machine Learning, Python, SQL, Docker, MATLAB, C/C++
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Electrical and Computer Engineering |   McMaster University (_May 2025_)								       		
+- M.Sc., Electrial Engineering  |   Sharif University of Technology (_May 2021_)	 			        		
+- B.Sc., Electrial Engineering  |   Sharif University of Technology (_Aug 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (_Nov 2022 - Jan 2024_)**
+- Assistant manager of the MobilityCube program
+- Assisting with communication and coordination of over 15 projects and 140 staff engaged in the MobilityCube program, a joint McMaster-Cubic program.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Project Manager/Owner @ McMaster Automotive Resource Centre (MARC) (_Oct 2022 - Jan 2024_)**
+- V2X project aimed to increase pedestrian safety in the intersections using vehicle-to-infrastructure communication for Autonomous Vehicles applications.
+- Technically leading 6 Master’s and Undergraduate students.
+- Skills: Critical thinking, project leading, task delegation, deep learning, trajectory prediction, computer vision, data analysis, traffic safety, algorithm development
 
-## Projects
+**V-TMC Project Manager/Owner @ McMaster Automotive Resource Centre (MARC) (_Mar 2023 - Jan 2024_)**
+- Virtual-Traffic Management Centre(V-TMC) project owner/leader.
+- V-TMC aimed to provide a test bed for evaluating the MobilityCube outputs on a designated intersection.
+- V-TMC platform included a live feed of multiple fisheye and CCTV cameras, Radar, Lidar, and GridSmart processors.
+- Skills: Linux bash, IT services, image detection, image processing, fisheye cameras
+
+**Design Engineer @ NurAfarinIde Co. (_Aug 2020 - March 2022_)**
+- GSM-based control system for remote controlling of medical devices.
+- Design and IEC regulation procedures for laser hair removal machine.
+- Design a UI and controller circuit of a fruit dehydrator machine using waste heat recovery.
+- Design and implementation of a low voltage 2kW back-to-back converter.
+
+## Recent Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Vehicles Trajectory Prediction: Predicting the trajectory of vehicles using deep learning models on a locally
+collected dataset and calculating the near misses probability and time to collision.
+- V2X-Traffic and Safety Management: Detecting pedestrians from a fish-eye camera on intersection crosswalks and
+alerting nearby vehicles based on the chance of collision
+- V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar,
+and Lidar as a test bed for evaluating the projects’ output.
+- Illegal Maneuver Detection: Automatically detecting illegal box-junction stop maneuvers
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+1. Behzad Abdi, Sara Miraei, Morteza Adl, Severin Hidajat, Ali Emadi, Fellow, IEEE,”Advancing Vulnerable Road Users Safety: Interdisciplinary Review on V2X Communication and Trajectory Prediction,” IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3518063
+2. Behzad Abdi, Zeynab Rokhi, Carlos Vidal, Ali Emadi, Fellow, IEEE, ”Scene-Centric Vehicle Trajectory Prediction at Cooperative Intersection Using Neighbour-Aware Transformer,” Under Review
+3. Behzad Abdi, Sara Mirzaei, Morteza Adl, Ryan Ahmed, Ali Emadi, Fellow, IEEE, ”Real-time Deep Learning Based Predictive Safety Alerts for Road Users at Cooperative Intersection,” Under Review
+4. Xiyuan Guo, Morteza Adl, Behzad Abdi, Ali Emadi, Fellow, IEEE, ”Intersection-Specific Trajectory Prediction for Road Users: A Review,” IEEE Access, doi: 10.1109/ACCESS.2025.3546325 
+5. Morteza Adl, Member, IEEE, Xiyuan Guo, Member, IEEE, Arta Mohammad-Alikhani, Member, IEEE, Behzad Abdi, Member, IEEE, Ali Emadi, Fellow, IEEE, ”Roadside Fisheye Vision for Cooperative Localization in V2I-Assisted Automated Driving,” Under Review 
+6. M. Ghadrdan, B.Abdi, S.Peyghami, H. Mokhtari, F. Blaabjerg, ”An On-line Condition Monitoring System for DC-link Capacitor of Back-to-Back Converters Using Large-Signal Transients,” Journal of Emerging and Selected Topics in Power Electronics,doi: 10.1109/JESTPE.2022.3163012. 7. An Agent-Based Approach for Market-Based Customer Reliability Enhancement in Distribution Systems, Distributed Computing
