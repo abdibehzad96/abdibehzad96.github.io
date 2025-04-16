@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Machine Learning, Python, Computer Vision, MATLAB, C/C++, SQL, Docker
+#### Technical Skills: Deep Learning, Machine Learning, Python, Computer Vision, C/C++, SQL, Docker, MATLAB
 
 ## Education
-- Ph.D., Electrical and Computer Engineering |   McMaster University (_May 2025_)								       		
+- Ph.D., Electrical and Computer Engineering |   McMaster University (_July 2025_)								       		
 - M.Sc., Electrial Engineering  |   Sharif University of Technology (_May 2021_)	 			        		
 - B.Sc., Electrial Engineering  |   Sharif University of Technology (_Aug 2019_)
 
