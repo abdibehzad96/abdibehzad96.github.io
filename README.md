@@ -33,7 +33,7 @@
 - Designed and implemented a low-voltage 2kW back-to-back converter.
 
 ## Recent Projects
-### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicles Trajectory Prediction
+### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicle Trajectory Prediction
 - Predicting the trajectory of vehicles using deep learning models on a locally collected dataset and SinD public dataset.
 - [Github repo](https://github.com/abdibehzad96/HDAAGT.git)
 
@@ -49,15 +49,19 @@
 
 ### Illegal Maneuver Detection
 - Automatically detecting illegal box-junction stop maneuvers from a fisheye camera
-- Detecting the designated vehicle's plate number from CCTV camera
+- Detecting the designated vehicle's plate number from the CCTV camera
 - [Paper](https://doi.org/10.1109/IECON49645.2022.9968584)
 
 
+## Honours and Awards
+- Ranked 2nd in the M.Sc. university entry exam among all participants in Iran.
+- Ranked 10th in the B.Sc. university entry exam among the regional participants and ranked 512th among 400,000 participants in Iran.
+- Vice President of the Sharif University Student Union.
 
 ## Publications
-1. B. Abdi, S. Miraei, M. Adl, S. Hidajat, A. Emadi, Fellow, IEEE,”Advancing Vulnerable Road Users Safety: Interdisciplinary Review on V2X Communication and Trajectory Prediction,” IEEE Transactions on Intelligent Transportation Systems, [doi: 10.1109/TITS.2024.3518063](https://doi.org/10.1109/TITS.2024.3518063)
-2. B. Abdi, Z. Rokhi, C. Vidal, A. Emadi, Fellow, IEEE, ”Scene-Centric Vehicle Trajectory Prediction at Cooperative Intersection Using Neighbour-Aware Transformer,” [Under Review](https://ieee-itss.org/pub/t-its/)
-3. B. Abdi, S. Mirzaei, M. Adl, R. Ahmed, A. Emadi, Fellow, IEEE, ”Real-time Deep Learning Based Predictive Safety Alerts for Road Users at Cooperative Intersection,” [Under Review](https://ieee-itss.org/pub/t-its/)
-4. X. Guo, M. Adl, Behzad Abdi, A. Emadi, Fellow, IEEE, ”Intersection-Specific Trajectory Prediction for Road Users: A Review,” IEEE Access, [doi: 10.1109/ACCESS.2025.3546325](https://doi.org/10.1109/ACCESS.2025.3546325) 
-5. M. Adl, Member, IEEE, X. Guo, Member, IEEE, A. Mohammad-Alikhani, Member, IEEE, B. Abdi, Member, IEEE, A. Emadi, Fellow, IEEE, ”Roadside Fisheye Vision for Cooperative Localization in V2I-Assisted Automated Driving,” [Under Review](https://ieee-itss.org/pub/oj-its/)
-6. M. Ghadrdan, B. Abdi, S. Peyghami, H. Mokhtari, F. Blaabjerg, ”An On-line Condition Monitoring System for DC-link Capacitor of Back-to-Back Converters Using Large-Signal Transients,” Journal of Emerging and Selected Topics in Power Electronics, [doi: 10.1109/JESTPE.2022.3163012](https://doi.org/10.1109/JESTPE.2022.3163012).
+1. B. Abdi, S. Miraei, M. Adl, S. Hidajat, A. Emadi, Fellow, IEEE, “Advancing Vulnerable Road Users Safety: Interdisciplinary Review on V2X Communication and Trajectory Prediction,” IEEE Transactions on Intelligent Transportation Systems, [doi: 10.1109/TITS.2024.3518063](https://doi.org/10.1109/TITS.2024.3518063)
+2. B. Abdi, Z. Rokhi, C. Vidal, A. Emadi, Fellow, IEEE, “Scene-Centric Vehicle Trajectory Prediction at Cooperative Intersection Using Neighbour-Aware Transformer,” [Under Review](https://ieee-itss.org/pub/t-its/)
+3. B. Abdi, S. Mirzaei, M. Adl, R. Ahmed, A. Emadi, Fellow, IEEE, “Real-time Deep Learning Based Predictive Safety Alerts for Road Users at Cooperative Intersection,” [Under Review](https://ieee-itss.org/pub/t-its/)
+4. X. Guo, M. Adl, Behzad Abdi, A. Emadi, Fellow, IEEE, “Intersection-Specific Trajectory Prediction for Road Users: A Review,” IEEE Access, [doi: 10.1109/ACCESS.2025.3546325](https://doi.org/10.1109/ACCESS.2025.3546325) 
+5. M. Adl, Member, IEEE, X. Guo, Member, IEEE, A. Mohammad-Alikhani, Member, IEEE, B. Abdi, Member, IEEE, A. Emadi, Fellow, IEEE, “Roadside Fisheye Vision for Cooperative Localization in V2I-Assisted Automated Driving,” [Under Review](https://ieee-itss.org/pub/oj-its/)
+6. M. Ghadrdan, B. Abdi, S. Peyghami, H. Mokhtari, F. Blaabjerg, “An On-line Condition Monitoring System for DC-link Capacitor of Back-to-Back Converters Using Large-Signal Transients,” Journal of Emerging and Selected Topics in Power Electronics, [doi: 10.1109/JESTPE.2022.3163012](https://doi.org/10.1109/JESTPE.2022.3163012).
