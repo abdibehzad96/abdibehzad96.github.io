@@ -35,13 +35,13 @@
 ## Recent Projects
 ### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicle Trajectory Prediction
 - Predicting the trajectory of vehicles using deep learning models on a locally collected dataset and SinD public dataset.
-- [Github repo](https://github.com/abdibehzad96/HDAAGT.git)
+- [GitHub repo](https://github.com/abdibehzad96/HDAAGT.git)
 
 
 ### Predictive Safety Alerts for Road Users at Cooperative Intersection
 - Real-time Deep Learning Based Predictive Safety Alerts for Road Users at Cooperative Intersection
 - Detecting pedestrians from a fish-eye camera on intersection crosswalks and alerting nearby vehicles based on the chance of collision.
-- [Github repo](https://github.com/abdibehzad96/PSA-RUCI.git)
+- [GitHub repo](https://github.com/abdibehzad96/PSA-RUCI.git)
 
 
 ### V-TMC Setup
