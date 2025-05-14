@@ -1,11 +1,10 @@
-# Data Scientist
+# AI/ML Scientist
 
-#### Technical Skills: Deep Learning, Machine Learning, Python, Computer Vision, C/C++, SQL, RAG, Docker, MATLAB
-### Languages: Python, C, C++, Bash Scripts
-### Clouds & Databases: MongoDB, AWS, FastAPI,
-### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker
-### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis, SQL
-### AI & ML: Trajectory Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG, CuDNN, CUDA
+#### Languages: Python, C, C++, Bash Scripts
+#### Clouds & Databases: MongoDB, AWS, FastAPI,
+#### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker
+#### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis, SQL
+#### AI & ML: Trajectory Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG, CuDNN, CUDA
 
 ## Education
 - Ph.D., Electrical and Computer Engineering |   McMaster University (_July 2025_)								       		
