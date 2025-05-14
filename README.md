@@ -1,6 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Deep Learning, Machine Learning, Python, Computer Vision, C/C++, SQL, Docker, MATLAB
+#### Technical Skills: Deep Learning, Machine Learning, Python, Computer Vision, C/C++, SQL, RAG, Docker, MATLAB
+### Languages: Python, C, C++, Bash Scripts
+### Clouds & Databases: MongoDB, AWS, FastAPI,
+### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker
+### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis, SQL
+### AI & ML: Trajectory Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG, CuDNN, CUDA
 
 ## Education
 - Ph.D., Electrical and Computer Engineering |   McMaster University (_July 2025_)								       		
@@ -9,24 +14,24 @@
 
 ## Work Experience
 **Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (_Nov 2022 - Jan 2024_)**
-- Assisting with communication and coordination of over 15 projects and 140 staff engaged in the MobilityCube program, a joint McMaster-Cubic program.
+- Assisted in communicating and coordinating over 15 successfully delivered projects and 140 staff as part of the MobilityCube program, a $ 20M joint initiative between McMaster and Cubic.
+- **Skills**: Jira, Confluence, Git, AWS, time Management, communication, team lead.
 
 **Project Manager/Owner @ MARC (_Oct 2022 - Jan 2024_)**
-- V2X project aimed to increase pedestrian safety in the intersections using vehicle-to-infrastructure communication for Autonomous Vehicles applications.
-- Technically leading 6 Master’s and Undergraduate students.
-- Skills: Critical thinking, project leading, task delegation, deep learning, trajectory prediction, computer vision, data analysis, traffic safety, algorithm development
+- Delivered the V2X project to enhance pedestrian safety at intersections using vehicle-to-infrastructure communication for autonomous vehicle applications.
+- Led a team of 6 researchers on the project, delivering state-of-the-art results that resulted in 2 published papers and 1 US patent.
+- **Skills**: Critical thinking, project leading, task delegation, deep learning, machine learning, Python, PyTorch, NLP and LLMs, Graph Neural Networks, computer vision, data analysis, traffic safety, algorithm development, BERT, GPT, MAMBA, Full-Stack AI Deployment, RAG.
 
 **V-TMC Project Manager/Owner @ MARC (_Mar 2023 - Jan 2024_)**
-- Virtual-Traffic Management Centre(V-TMC) project owner/leader.
-- V-TMC aimed to provide a test bed for evaluating the MobilityCube outputs on a designated intersection.
-- V-TMC platform included a live feed of multiple fisheye and CCTV cameras, Radar, Lidar, and GridSmart processors.
-- Skills: Linux bash, IT services, image detection, image processing, fisheye cameras
+- Established the V-TMC as a test bed for evaluating project outcomes at a designated intersection, ensuring successful validation of deployed solutions.
+- V-TMC platform included a live feed of multiple fisheye and CCTV cameras, radar, lidar, and GridSmart processors.
+- **Skills**: Linux bash, IT services, image detection, image processing, fisheye cameras.
 
 **Design Engineer @ NurAfarinIde Co. (_Aug 2020 - March 2022_)**
-- GSM-based control system for remote controlling of medical devices.
-- Design and IEC regulation procedures for laser hair removal machine.
-- Design a UI and controller circuit of a fruit dehydrator machine using waste heat recovery.
-- Design and implementation of a low voltage 2kW back-to-back converter.
+- Delivered a GSM-based control system enabling reliable remote operation of medical devices.
+- Received the IEC regulatory certificate for designing a commercial-compliant laser hair removal machine.
+- Designed and implemented the UI and controller circuit for a fruit dehydrator system utilizing waste heat recovery.
+- Designed and implemented a low-voltage 2kW back-to-back converter.
 
 ## Recent Projects
 ### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicles Trajectory Prediction
@@ -41,7 +46,7 @@
 
 
 ### V-TMC Setup
-- V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar, and Lidar as a test bed for evaluating the projects’ output.
+- V-TMC: Establishing a traffic management control system including a live feed of fish-eye and CCTV cameras, Radar, and Lidar as a test bed for evaluating the project’s output.
 
 ### Illegal Maneuver Detection
 - Automatically detecting illegal box-junction stop maneuvers from a fisheye camera
