@@ -12,25 +12,33 @@
 - B.Sc., Electrial Engineering  |   Sharif University of Technology (_Aug 2019_)
 
 ## Work Experience
+**AI/ML Tech Lead@ MARC (_Oct 2022 - Ongoing)**
+- Developed multiple full-stack AI models for timeseries prediction using CNN, NLP, GNN, and Transformers.
+- Led a team of 6 researchers on the project, delivering SOTA vehicle trajectory prediction results with real-time inference, resulting in 2 published papers.
+- Vehicle path analysis and prediction using Random Forest classifier.
+- Contributed to AI pipelines for battery State-of-Charge estimation and fault classification projects led by cross-functional teams.
+- **Skills**: Critical thinking, project leading, task delegation, deep learning, machine learning, Python, PyTorch, NLP, Graph Neural Networks, algorithm
+development, Full-Stack AI Deployment, multi-GPU training.
+
+**Computer Vision & Edge Systems Specialist@ MARC(_March 2023- _Jan 2024)**
+- Established the Virtual-Traffic Monitoring & Control test bed for evaluating computer vision projects at a designated intersection, ensuring successful validation of deployed solutions.
+- V-TMC involves a live object detecting and tracking system from fisheye and CCTV cameras, radar, deployed on GS3 processors.
+- **Skills**: Linux bash, IT services, edge computation, computer vision, video streams
+
+**Computer Vision Researcher@ MARC (_May 2022- _Oct 2022**
+- Detecting and tracking vehicles’ illegal driving patterns through a top-viewfisheye camera, then detecting license plates through synchronized CCTV cameras.
+- Worked in a team of 3 that resulted in 1 published paper and 1 US patent.
+- YOLOV7 fine-tuning for vehicle and pedestrian detection using top-view fisheye images.
+- **Skills**: OpenCV, YOLOV8, DeepSort, Edge devices (Jetson Nano, GridSmart 2 & 3)
+
+**Embedded System Design Engineer@ NurAfarinIde Co (_Aug 2020 – _March 2022)**
+- Delivered a C-based IoT control system enabling reliable remote operation of medical devices.
+- Designed and programmed the UI/Controller circuit for humidity and temperature control of enclosed systems.
+- Received the IEC regulatory certificate for designing a commercial compliant laser hair removal machine.
+
 **Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (_Nov 2022 - Jan 2024_)**
 - Assisted in communicating and coordinating over 15 successfully delivered projects and 140 staff as part of the MobilityCube program, a $ 20M joint initiative between McMaster and Cubic.
 - **Skills**: Jira, Confluence, Git, AWS, time Management, communication, team lead.
-
-**Project Manager/Owner @ MARC (_Oct 2022 - Jan 2024_)**
-- Delivered the V2X project to enhance pedestrian safety at intersections using vehicle-to-infrastructure communication for autonomous vehicle applications.
-- Led a team of 6 researchers on the project, delivering state-of-the-art results that resulted in 2 published papers and 1 US patent.
-- **Skills**: Critical thinking, project leading, task delegation, deep learning, machine learning, Python, PyTorch, NLP and LLMs, Graph Neural Networks, computer vision, data analysis, traffic safety, algorithm development, BERT, GPT, MAMBA, Full-Stack AI Deployment, RAG.
-
-**V-TMC Project Manager/Owner @ MARC (_Mar 2023 - Jan 2024_)**
-- Established the V-TMC as a test bed for evaluating project outcomes at a designated intersection, ensuring successful validation of deployed solutions.
-- V-TMC platform included a live feed of multiple fisheye and CCTV cameras, radar, lidar, and GridSmart processors.
-- **Skills**: Linux bash, IT services, image detection, image processing, fisheye cameras.
-
-**Design Engineer @ NurAfarinIde Co. (_Aug 2020 - March 2022_)**
-- Delivered a GSM-based control system enabling reliable remote operation of medical devices.
-- Received the IEC regulatory certificate for designing a commercial-compliant laser hair removal machine.
-- Designed and implemented the UI and controller circuit for a fruit dehydrator system utilizing waste heat recovery.
-- Designed and implemented a low-voltage 2kW back-to-back converter.
 
 ## Recent Projects
 ### Heterogeneous Decision-Aware Attention Graph Transformer for Vehicle Trajectory Prediction
@@ -54,8 +62,8 @@
 
 
 ## Honours and Awards
-- Ranked 2nd in the M.Sc. university entry exam among all participants in Iran.
-- Ranked 10th in the B.Sc. university entry exam among the regional participants and ranked 512th among 400,000 participants in Iran.
+- Ranked 2nd nationwide in the M.Sc. university entry exam among all of the participants in Iran.
+- Top 0.2% nationwide- Ranked 512th in B.Sc. university entrance exam over 230,000 applicants.
 - Vice President of the Sharif University Student Union.
 
 ## Publications
