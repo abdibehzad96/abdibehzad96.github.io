@@ -28,7 +28,7 @@ development, Full-Stack AI Deployment, multi-GPU training.
 - V-TMC involves a live object detecting and tracking system from fisheye and CCTV cameras, radar, deployed on GS3 processors.
 - **Skills**: Linux bash, IT services, edge computation, computer vision, video streams
 
-**Computer Vision Researcher@ MARC (_May 2022- _Oct 2022**
+**Computer Vision Researcher@ MARC (_May 2022- _Oct 2022)**
 - Detecting and tracking vehicles’ illegal driving patterns through a top-viewfisheye camera, then detecting license plates through synchronized CCTV cameras.
 - Worked in a team of 3 that resulted in 1 published paper and 1 US patent.
 - YOLOV7 fine-tuning for vehicle and pedestrian detection using top-view fisheye images.
@@ -37,7 +37,7 @@ development, Full-Stack AI Deployment, multi-GPU training.
 **Embedded System Design Engineer@ NurAfarinIde Co (_Aug 2020 – _March 2022)**
 - Delivered a C-based IoT control system enabling reliable remote operation of medical devices.
 - Designed and programmed the UI/Controller circuit for humidity and temperature control of enclosed systems.
-- Received the IEC regulatory certificate for designing a commercial compliant laser hair removal machine.
+- Received the IEC regulatory certificate for designing a commercial-compliant laser hair removal machine.
 
 **Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (_Nov 2022 - Jan 2024_)**
 - Assisted in communicating and coordinating over 15 successfully delivered projects and 140 staff as part of the MobilityCube program, a $ 20M joint initiative between McMaster and Cubic.
