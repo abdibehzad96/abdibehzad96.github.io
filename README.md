@@ -2,9 +2,12 @@
 
 #### Languages: Python, C, C++, Bash Scripts
 #### Clouds & Databases: MongoDB, AWS, FastAPI,
-#### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker
-#### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis, SQL
-#### AI & ML: Trajectory Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG, CuDNN, CUDA
+#### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker, Git
+#### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis
+#### AI & ML: Timeseries Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG
+#### Computer Vision: Object detection (YOLO), tracking (SORT, deep SORT), Matplotlib, OpenCV,
+#### Soft Skills: Debugging, teamwork, team lead, time management, project delivery, Jira, Confluence, communication.
+
 
 ## Education
 - Ph.D., Electrical and Computer Engineering |   McMaster University (_July 2025_)								       		
