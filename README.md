@@ -1,45 +1,43 @@
 # AI/ML Scientist
 
-#### Languages: Python, C, C++, Bash Scripts
-#### Clouds & Databases: MongoDB, AWS, FastAPI,
-#### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker, Git
-#### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis
-#### AI & ML: Timeseries Prediction, Classification, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, NLP, LLMs, Graph Neural Networks, RAG
-#### Computer Vision: Object detection (YOLO), tracking (SORT, deep SORT), Matplotlib, OpenCV,
-#### Soft Skills: Debugging, teamwork, team lead, time management, project delivery, Jira, Confluence, communication.
+#### Languages: Python, C, C++, Linux Bash,
+#### Clouds & Databases: MongoDB, AWS, FastAPI, AWS Sagemaker, SQL,
+#### Developer Tools: PyCharm, VS Code, GitHub, ARM CPU, Docker, Git,
+#### Engineering: MATLAB, Simulink, Altium Designer, Keil μVision, Optimization (GA), Data Analysis,
+#### AI & ML: Timeseries Prediction, PyTorch, TensorFlow, Pandas, Scikit-learn, SciPy, TensorRT, ONNX, LLMs, RAG, Graph Neural Networks,
+#### Computer Vision: OpenCV, Object detection (YOLO), tracking (SORT, deep SORT), Matplotlib, 3D data, spatio-temporal data,
+#### Soft Skills: Debugging, teamwork, team lead, time management, project delivery, Jira, Confluence, communication
 
 
 ## Education
-- Ph.D., Electrical and Computer Engineering |   McMaster University (_July 2025_)								       		
-- M.Sc., Electrial Engineering  |   Sharif University of Technology (_May 2021_)	 			        		
-- B.Sc., Electrial Engineering  |   Sharif University of Technology (_Aug 2019_)
+- Ph.D. Electrical & Computer Engineering |   McMaster University (_July 2025_)								       		
+- M.Sc. Electrial Engineering  |   Sharif University of Technology (_May 2021_)	 			        		
+- B.Sc. Electrial Engineering  |   Sharif University of Technology (_Aug 2019_)
 
 ## Work Experience
-**AI/ML Tech Lead@ MARC (_Oct 2022 - Ongoing)**
-- Developed multiple full-stack AI models for timeseries prediction using CNN, NLP, GNN, and Transformers.
-- Led a team of 6 researchers on the project, delivering SOTA vehicle trajectory prediction results with real-time inference, resulting in 2 published papers.
-- Vehicle path analysis and prediction using Random Forest classifier.
+**Computer Vision and AI Tech Lead @ MARC (Oct 2022 - Ongoing)**
+- Established a real-time edge detection/tracking system on a Fisheye and CCTV camera, as a test bed for validation of deployed solutions.
+- Collected, annotated, and processed traffic data for object detection/tracking and trajectory prediction models.
+- Full-stack AI model development (e.g., Heterogeneous Decision-Aware Attention Graph Transformer) for vehicle trajectory/motion prediction using CNN, GNN, and Transformers. Achieved a ×5 improvement in FDE and ADE over a GPT-based baseline. Optimized inference efficiency, reducing latency from 80ms/agent to 12.5ms/agent.
+- Led 2 projects, delivering SOTA vehicle trajectory prediction results with real-time inference, resulting in 3 published papers.
+- Multimodal vehicle motion classification using a Random Forest classifier, with 96% accuracy on proprietary and SinD datasets.
 - Contributed to AI pipelines for battery State-of-Charge estimation and fault classification projects led by cross-functional teams.
-- **Skills**: Critical thinking, project leading, task delegation, deep learning, machine learning, Python, PyTorch, NLP, Graph Neural Networks, algorithm
-development, Full-Stack AI Deployment, multi-GPU training.
+- Developing a Camera/Radar calibration model to improve vision in low visibility scenarios.
+- **Skills**: Python, PyTorch, NLP, Graph Neural Networks, Transformers, Computer Vision, Robot Operating System (ROS), Full-Stack AI Deployment,
+Multi-GPU training, Critical thinking, CI/CD pipeline, MLOps, Project leading, Task delegation.
 
-**Computer Vision & Edge Systems Specialist@ MARC(_March 2023- _Jan 2024)**
-- Established the Virtual-Traffic Monitoring & Control test bed for evaluating computer vision projects at a designated intersection, ensuring successful validation of deployed solutions.
-- V-TMC involves a live object detecting and tracking system from fisheye and CCTV cameras, radar, deployed on GS3 processors.
-- **Skills**: Linux bash, IT services, edge computation, computer vision, video streams
-
-**Computer Vision Researcher@ MARC (_May 2022- _Oct 2022)**
-- Detecting and tracking vehicles’ illegal driving patterns through a top-viewfisheye camera, then detecting license plates through synchronized CCTV cameras.
+**Computer Vision Researcher@ MARC (May 2022- Oct 2022)**
+- Detecting and tracking vehicles’ illegal driving patterns through a top-view fisheye camera, then detecting license plates through synchronized CCTV cameras.
 - Worked in a team of 3 that resulted in 1 published paper and 1 US patent.
 - YOLOV7 fine-tuning for vehicle and pedestrian detection using top-view fisheye images.
 - **Skills**: OpenCV, YOLOV8, DeepSort, Edge devices (Jetson Nano, GridSmart 2 & 3)
 
-**Embedded System Design Engineer@ NurAfarinIde Co (_Aug 2020 – _March 2022)**
+**Embedded System Design Engineer@ NurAfarinIde Co (Aug 2020 – March 2022)**
 - Delivered a C-based IoT control system enabling reliable remote operation of medical devices.
 - Designed and programmed the UI/Controller circuit for humidity and temperature control of enclosed systems.
 - Received the IEC regulatory certificate for designing a commercial-compliant laser hair removal machine.
 
-**Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (_Nov 2022 - Jan 2024_)**
+**Program Manager Assistant @ McMaster Automotive Resource Centre (MARC) (Nov 2022 - Jan 2024)**
 - Assisted in communicating and coordinating over 15 successfully delivered projects and 140 staff as part of the MobilityCube program, a $ 20M joint initiative between McMaster and Cubic.
 - **Skills**: Jira, Confluence, Git, AWS, time Management, communication, team lead.
 
